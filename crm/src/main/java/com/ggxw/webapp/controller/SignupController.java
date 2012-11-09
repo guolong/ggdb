@@ -1,10 +1,10 @@
 package com.ggxw.webapp.controller;
 
 import org.apache.commons.lang.StringUtils;
-import org.appfuse.Constants;
-import org.appfuse.model.User;
-import org.appfuse.service.RoleManager;
-import org.appfuse.service.UserExistsException;
+import com.ggxw.Constants;
+import com.ggxw.model.User;
+import com.ggxw.service.RoleManager;
+import com.ggxw.service.UserExistsException;
 import com.ggxw.webapp.util.RequestUtil;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.mail.MailException;

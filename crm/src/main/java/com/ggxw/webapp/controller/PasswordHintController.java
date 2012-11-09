@@ -2,9 +2,9 @@ package com.ggxw.webapp.controller;
 
 import org.apache.commons.logging.Log;
 import org.apache.commons.logging.LogFactory;
-import org.appfuse.model.User;
-import org.appfuse.service.MailEngine;
-import org.appfuse.service.UserManager;
+import com.ggxw.model.User;
+import com.ggxw.service.MailEngine;
+import com.ggxw.service.UserManager;
 import com.ggxw.webapp.util.RequestUtil;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.MessageSource;

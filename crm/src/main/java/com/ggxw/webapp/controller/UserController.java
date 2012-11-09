@@ -1,7 +1,7 @@
 package com.ggxw.webapp.controller;
 
-import org.appfuse.Constants;
-import org.appfuse.service.UserManager;
+import com.ggxw.Constants;
+import com.ggxw.service.UserManager;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;

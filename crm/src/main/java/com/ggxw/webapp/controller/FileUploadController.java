@@ -1,6 +1,6 @@
 package com.ggxw.webapp.controller;
 
-import org.appfuse.Constants;
+import com.ggxw.Constants;
 import org.springframework.stereotype.Controller;
 import org.springframework.validation.BindingResult;
 import org.springframework.web.bind.annotation.ModelAttribute;

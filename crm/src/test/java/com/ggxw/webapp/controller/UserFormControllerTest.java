@@ -1,8 +1,8 @@
 package com.ggxw.webapp.controller;
 
-import org.appfuse.Constants;
-import org.appfuse.model.User;
-import org.appfuse.service.UserManager;
+import com.ggxw.Constants;
+import com.ggxw.model.User;
+import com.ggxw.service.UserManager;
 import org.junit.Test;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.mock.web.MockHttpServletRequest;

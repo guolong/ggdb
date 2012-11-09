@@ -1,6 +1,6 @@
 package com.ggxw.webapp.controller;
 
-import org.appfuse.Constants;
+import com.ggxw.Constants;
 import org.compass.gps.CompassGps;
 import org.junit.Test;
 import org.springframework.beans.factory.annotation.Autowired;
